@@ -51,3 +51,4 @@
   national election or campaign laws.
 
   ## License
+  This project and demo is licensed under the MiT and is free to use and modify. 
